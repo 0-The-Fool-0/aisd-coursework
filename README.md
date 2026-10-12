@@ -16,6 +16,6 @@ Do not assume every folder is complete: the snapshot contains empty placeholder 
 
 ## Repository boundaries
 
-Generated executables, debug outputs, and local IDE state are excluded from this snapshot. Input files are retained when they are part of an exercise. Builds and tests have not been run during this review.
+Generated executables, debug outputs, and local IDE state are excluded from this snapshot. Input files are retained when they are part of an exercise. The `0.0/0.0` Visual Studio project built successfully with MSVC (v145 toolset override) in the Windows audit copy; it emitted a possible integer conversion warning. A full solution build was not run. Windows could not check out two very long tracked paths in the audit copy, so those assignments were not validated there.
 
 This is a coursework archive rather than a single integrated C++ application. Check the exact assignment and course rules before making the repository public.
