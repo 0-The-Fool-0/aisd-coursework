@@ -12,7 +12,7 @@ The folder names and source files cover a range of algorithmic exercises, includ
 - Build and run that assignment separately; there is no shared root application.
 - Many exercises read from a nearby `input.txt` or similarly named input file and write results to `output.txt`.
 
-Do not assume every folder is complete: the snapshot contains a few empty placeholder source/output files, including `Project1/Project1/FileName.cpp`. Some legacy source comments also appear with broken text encoding. These have not been edited in the repository.
+Do not assume every folder is complete: the snapshot contains empty placeholder source files, including `Project1/Project1/FileName.cpp` and `Черный ящик/Черный ящик/FileName.cpp`, as well as some placeholder input/output files. Some legacy source comments also appear with broken text encoding. These have not been edited in the repository.
 
 ## Repository boundaries
 
