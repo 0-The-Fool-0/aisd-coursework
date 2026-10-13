@@ -1,6 +1,8 @@
-# ASID C++ Coursework
+[Русская версия](README.ru.md)
 
-A collection of independent C++ console assignments from the ASID course. Each assignment remains in its own directory, with its own Visual Studio solution and project files where available.
+# Algorithms and Data Structures (АиСД) — Coursework
+
+A collection of independent C++ console assignments from the Algorithms and Data Structures (АиСД) course. Each assignment remains in its own directory, with its own Visual Studio solution and project files where available.
 
 ## Topics represented
 
